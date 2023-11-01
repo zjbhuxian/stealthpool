@@ -1,4 +1,4 @@
-module github.com/Link512/stealthpool
+module github.com/zjbhuxian/stealthpool
 
 go 1.16
 
